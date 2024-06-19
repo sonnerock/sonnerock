@@ -1,5 +1,5 @@
-### Hi there 👋
-Mi nombre es Mario Zamora
+### Hola Mundo 👋
+Mi nombre es Mario Zamora 
 
 Vivo en Chile, Region Metropolitana, comuna de Puente Alto
 
